@@ -21,7 +21,7 @@ This project is to help find the driving factors of loan default using past loan
 - From the analysis of input data using EDA, we got the below key insights.
   
   1. Employee Grade is a clear driving factor of loan default. Higher the chances of getting charged off/loan default with the lower the grade employee. G grade is most probable of defaulter and A grade is less probable to default the loan based on the history of the supplied input data.
-  2. Lesser experienced employees are more chances to be default. The loan whereas employees having 10+ years of working experience have considerably less probable to default the loan. So, it's recommended to approve the loan for people who are working in stable jobs since considerably a good amount of time.
+  2. Lesser experienced employees are more chances to be default. The loan whereas employees having 10+ years of working experience have considerably less probable to default the loan. So, it's recommended to approve the loan for people who are working in stable jobs since considerably a good amount of time. Missing experience considered as job volatality hence more probable to become default
   3. The Interest rate shows a pattern where high interest rate leads to higher chances of Charged Off. i.e., people who are willing to go for high interest rates, have more probability of being defaulted the loan. Missing exprience considered as job volatality hence more chances of getting default.
   4. Loan default cases are attributable to Total Principal received, Outstanding principle and last payment. A higher principle could imply to the higher risk of default.
 
