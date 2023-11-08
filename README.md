@@ -1,5 +1,5 @@
 # Lending Club Case Study using EDA
-> The large consumer finance company wants to understand the driving factors (or driver variables) behind loan default, i.e., the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
+> The large consumer finance company wants to understand the driving factors (or driver variables) behind loan defaulters, i.e., the variables which are driving to become defaulters. The company can utilise insights supplied for the portfolio and to assess the risk. 
 This project is to help find the driving factors of loan default using past loan data of the company and help them in providing insights based on which they can take their decision to reduce the risk and increase the revenue.
 
 ## Table of Contents
@@ -10,7 +10,7 @@ This project is to help find the driving factors of loan default using past loan
 ## General Information
 - The large finance company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 - ### Background
-- Demonstration of EDA concepts to understand data, clean data, enhance the data, derive key insights and patterns from it and provide recommendations to business to help them in their risk analytics. If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+- Applied the Exploring DAta Aanalysis concepts to understand, clean, enhance the data, derive key insights and patterns from it. Provide the recommendations to business to help them understand the reasons behind becoming the defaulty. Financial company will enhance the process and checklists while issuing the loans such that can be reduced thereby cutting down the amount of credit loss. The insights also helpful to get the employees where the credibility of the paying loans are high. Identification of such applicants using EDA is the aim of this case study.
 - ### Business Objective:
 - We need to help a consumer finance company which specialises in lending various types of loans to urban customers in their risk analytics. This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.
 The input data contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
